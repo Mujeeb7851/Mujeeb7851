@@ -1,5 +1,5 @@
 # 💫 About Me:
-.NET developer with 2 years of experience, passionate about innovation, collaboration, and cutting-edge technologies.
+.NET developer with 1.5 years of experience, passionate about innovation, collaboration, and cutting-edge technologies.
 
 
 ## 🌐 Socials:
